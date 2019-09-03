@@ -19,3 +19,14 @@ a.Local Strategy(enter your email & password)
 b. If user has google (goole-plus strategy) or facebook (facebook strategy), click appropriate button
 
 3. User can logout and SignIn again using the 3 strategies mentioned above
+
+Tests
+Backend
+npm run test / yarn test
+
+front-end
+npm run test1 / yarn test1 (Still having errors): Dont run tests for now
+
+Third Party Api
+GoogleOauth and FacebookOauth were used..A google and Facebook account is required
+for users to be autheticated.
